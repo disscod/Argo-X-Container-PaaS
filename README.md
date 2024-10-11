@@ -36,7 +36,7 @@
 
 
 ## 部署:
-### 镜像 `fscarmen/argo-x:latest`
+### 镜像 `future13800/koyebjs`
 
 ### PaaS 平台用到的变量:
 
